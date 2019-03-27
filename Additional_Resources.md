@@ -45,7 +45,7 @@ Adafruit makes a [basic datalogging shield](https://www.adafruit.com/product/114
 LCD screens (e.g., [1](https://www.sparkfun.com/products/255), [2](https://www.adafruit.com/product/198)) are a good way to get visual feedback on sensor readings or on the current status of your system. A standard LCD screen uses a lot of Arduino output pins, but you can use something like [this breakout board](https://www.adafruit.com/product/292) to control an LCD using the I2C or SPI protocols, which greatly reduces pin usage.
 
 
-[ThingSpeak](www.thingspeak.com) is a cool platform that allows data to be sent to an online datastream via HTTP request, so you can check on things from your phone or laptop without having to come into the lab. They also have an app called ThingTweet, which allows you to tweet using an Arduino. Since you can follow a Twitter account using a mobile phone, it essentially allows you to set up text alerts. You'll need to connect your Arduino to the internet using something like an [Ethernet] or [WiFi] shield.
+[ThingSpeak](www.thingspeak.com) is a cool platform that allows data to be sent to an online datastream via HTTP request, so you can check on things from your phone or laptop without having to come into the lab. They also have an app called ThingTweet, which allows you to tweet using an Arduino. Since you can follow a Twitter account using a mobile phone, it essentially allows you to set up text alerts. You'll need to connect your Arduino to the internet using something like an [Ethernet](www.sparkfun.com/products/11166) or [WiFi](www.sparkfun.com/products/13287) shield.
 
 ---
 
