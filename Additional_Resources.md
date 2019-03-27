@@ -1,4 +1,4 @@
-#Some notes and useful resources for your Arduino projects 
+# Some notes and useful resources for your Arduino projects 
 
 Natalie Low
 
@@ -64,9 +64,9 @@ If size/space is at a premium (e.g., small data loggers that need to fit in a ho
 
 My preferred software for PCB design is [EAGLE] (https://www.autodesk.com/products/eagle/free-download) - their free version is generally sufficient for most purposes. Sparkfun has a [nice set of tutorials] (https://learn.sparkfun.com/tutorials/tags/eagle) on how to design boards in EAGLE. 
 
-[Fritzing] (http://fritzing.org/home/) is another option that gives you the option of  switching between a breadboarded circuit, circuit diagram, and PCB. The breadboard diagrams in this workshop were made in Fritzing.
+[Fritzing] (www.fritzing.org/home/) is another option that gives you the option of  switching between a breadboarded circuit, circuit diagram, and PCB. The breadboard diagrams in this workshop were made in Fritzing.
 
-I have had good success getting boards printed using [OSHpark] (oshpark.com) - they do small-scale print runs (minimum of 3 copies) and the turnaround is generally <2 weeks. 
+I have had good success getting boards printed using [OSHpark] (www.oshpark.com) - they do small-scale print runs (minimum of 3 copies) and the turnaround is generally <2 weeks. 
 
 
 
