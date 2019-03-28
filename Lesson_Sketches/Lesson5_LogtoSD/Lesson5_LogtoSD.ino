@@ -123,7 +123,7 @@ int read_temp_avg(int pin, int samples){
 
     //This function takes as INPUT ARGUMENTS the pin which we want to burst sample, and how many samples we want to average over. 
     
-    int T_avg ;
+    int T_avg = 0;
 
     //See: https://www.arduino.cc/reference/en/language/structure/control-structure/for/
     //For explanation of the "for()" control stucture
